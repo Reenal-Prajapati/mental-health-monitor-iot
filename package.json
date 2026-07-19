@@ -1,0 +1,9 @@
+{
+  "name": "dami-monitoring-platform",
+  "version": "1.0.0",
+  "description": "DAMI depression and anxiety monitoring website prototype",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
